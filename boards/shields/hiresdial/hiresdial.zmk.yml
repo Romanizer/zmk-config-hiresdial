@@ -1,0 +1,7 @@
+file_format: "1"
+id: hiresdial
+name: hiresdial
+type: shield
+requires: [nice_nano]
+features:
+  - keys
