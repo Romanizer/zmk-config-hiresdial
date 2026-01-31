@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrf52840dk/nrf52840
+  - board: nrf52840dk_nrf52840
     shield: nrfdk
     snippet: zmk-usb-logging
 #  - board: seeeduino_xiao_ble

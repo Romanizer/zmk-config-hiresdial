@@ -2,6 +2,6 @@ file_format: "1"
 id: nrfdk
 name: nrfdk
 type: shield
-requires: [nrf52840dk/nrf52840]
+requires: [nrf52840dk_nrf52840]
 features:
   - keys
