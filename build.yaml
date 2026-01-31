@@ -19,8 +19,8 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: hiresdial
+  - board: nrf52840dk/nrf52840
+    shield: nrfdk
     snippet: zmk-usb-logging
 #  - board: seeeduino_xiao_ble
 #    shield: high-resolution-scroll-wheel
